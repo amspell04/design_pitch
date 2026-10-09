@@ -1,0 +1,7 @@
+.git
+.venv
+**/__pycache__
+**/.adk
+agents/pitchy/output
+agents/pitchy/inputs
+docs
